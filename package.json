@@ -34,7 +34,7 @@
     "@cloudflare/workers-types": "^4.20221111.1",
     "@types/cookie": "^0.5.1",
     "@types/js-cookie": "^3.0.3",
-    "better-sqlite3": "^7.6.2",
+    "better-sqlite3": "^12.9.0",
     "vercel": "^32.0.0",
     "webpack-bundle-analyzer": "^4.9.1",
     "wrangler": "3.7.0"
