@@ -6,7 +6,7 @@ node_compat = true
 usage_model = "bundled"
 minify = true
 send_metrics =false
-
+pages_build_output_dir = ".vercel/output/static"
 
 kv_namespaces = [
     { binding = "JSKV", id = "4e3c118adc664c2aad598ed4f2f193a0" , preview_id="4e3c118adc664c2aad598ed4f2f193a0"},
